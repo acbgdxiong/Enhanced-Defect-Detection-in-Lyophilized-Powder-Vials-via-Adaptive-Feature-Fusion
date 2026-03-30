@@ -82,7 +82,8 @@ success = model.export(format="onnx")  # export the model to ONNX format
 
 
 ### Known Issues / TODO
-Partial data is stored in the Date folder. The network architecture is defined in my.yaml,
+Partial data is stored in the Date folder, 链接：https://pan.quark.cn/s/86de4c38004d?pwd=bdpA
+提取码：bdpA . The network architecture is defined in my.yaml,
 and the validation model is AEFNet.pt. All files have been uploaded and are available.
 ## <div align="center">Network Architecture</div>
 nc: 80 # number of classes  # [depth, width, max_channels]
